@@ -24,4 +24,8 @@ Os seguintes métodos devem ser aplicados:
 ### Como executar o programa:
         • No ubuntu ou derivado abra o terminal
         • Execute o comando: make run.
+        
+### Resultados:
+![alt text](https://github.com/jeanmira/Trabalho-sobre-metodos-numericos/blob/main/resultados.png)
+
       
