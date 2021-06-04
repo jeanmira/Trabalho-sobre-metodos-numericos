@@ -1,11 +1,5 @@
 # **Trabalho sobre métodos numéricos / Working on numerical methods**
 
-### Objetivo:
-
-Aplicar os conhecimentos da disciplina para obtenção da solução numérica de um modelo matemático. 
-Assim, cada grupo de buscar um modelo matemática de interesse e aplicar os métodos numéricos vistos 
-em sala para obtenção da solução, comparar a qualidade dos resultados e analisar qualitativamente o resultado.
-
 ### Descrição: 
 
 O desenvolvimento do trabalho consiste em
