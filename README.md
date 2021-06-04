@@ -1,4 +1,4 @@
-# **Trabalho sobre métodos numéricos**
+# **Trabalho sobre métodos numéricos / Working on numerical methods**
 
 ### Objetivo:
 
